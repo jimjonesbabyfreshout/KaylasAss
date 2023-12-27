@@ -13,7 +13,7 @@ export default (props: Props) => {
       props.onChange(botMetaList[0].value)
   })
   return (
-    <Select
+   /* <Select
       value={props.value}
       onChange={props.onChange}
       options={botMetaList}
@@ -31,7 +31,7 @@ export default (props: Props) => {
             <div i-carbon-checkmark />
           )}
         </div>
-      )}
+      }
     />
-  )
+  */)
 }
