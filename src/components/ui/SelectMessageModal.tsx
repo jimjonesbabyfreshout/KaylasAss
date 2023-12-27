@@ -35,7 +35,7 @@ export default () => {
       updateMessage($currentConversationId(), item.id, { isSelected: item.isSelected })
     })
     showSelectMessageModal.set(false)
-    showShareModal.set(true)
+    showShareModal.set(false)
   }
 
   return (
