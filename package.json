@@ -44,7 +44,7 @@
     "eventsource-parser": "^1.1.1",
     "idb-keyval": "^6.2.1",
     "js-sha256": "^0.9.0",
-    "katex": "^0.16.9",
+    "katex": "^0.16.10",
     "nanostores": "^0.9.4",
     "prism-theme-vars": "^0.2.4",
     "rehype-katex": "^6.0.3",
